@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Marc Morant</h1>
-<h3 align="center">A french frontend developer</h3>
+<h3 align="center">A french web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marc-mrt&label=Profile%20views&color=0e75b6&style=flat" alt="marc-mrt" /> </p>
 
 - 🚀 I’m currently working at [Passbase](https://passbase.com/)
+- 💥 Passionate about frontend specifically
+- ☝️ All things [React](https://reactjs.org/) related
+- 💡 Looking to create something exciting
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
