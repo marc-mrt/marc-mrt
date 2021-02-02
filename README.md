@@ -7,3 +7,5 @@
 ☝️ All things [React](https://reactjs.org/) related
 
 💡 Sharing code & ideas
+
+🪖 On a mission to keep it simple
