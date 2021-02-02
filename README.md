@@ -1,6 +1,9 @@
-<h3 align="center">Fench software developer</h3>
+🇫🇷 French software developer
 
-- 🚀 Working for [Passbase](https://passbase.com/)
-- 💥 Passionate about web specifically
-- ☝️ All things [React](https://reactjs.org/) related
-- 💡 Sharing code & ideas
+🚀 Working at [Passbase](https://passbase.com/)
+
+💥 Passionate about web specifically
+
+☝️ All things [React](https://reactjs.org/) related
+
+💡 Sharing code & ideas
